@@ -9,5 +9,13 @@ class Circle{
   get circumference(){
     return
   }
-  get 
+  get area(){
+    
+  }
+  set diameter(){
+    this.radius * 2;
+  }
+  set circumference(){
+    this.
+  }
 }
